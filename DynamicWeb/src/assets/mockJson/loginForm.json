@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "firstName",
+      "label": "First Name:",
+      "value": "",
+      "type": "text",
+      "validators": {
+        "required": true,
+        "minLength": 10
+      }
+    },
+    {
+      "name": "lastName",
+      "label": "Last Name:",
+      "value": "",
+      "type": "text",
+      "validators": {}
+    },
+    {
+      "name": "Mobile no",
+      "label": "Mobile Number:",
+      "value": "",
+      "type": "number",
+      "validators": {}
+    },
+    {
+      "name": "emailId",
+      "label": "Email Id:",
+      "value": "",
+      "type": "text",
+      "validators": {}
+    },
+    {
+      "name": "Password",
+      "label": "Password:",
+      "value": "",
+      "type": "text",
+      "validators": {}
+    },
+    {
+      "name": "Registation Code",
+      "label": "Registration Code",
+      "value": "",
+      "type": "text",
+      "validators": {}
+    }
+  ]
+}
+
+
+

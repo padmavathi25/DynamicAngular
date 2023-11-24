@@ -1,0 +1,10 @@
+
+
+<div class="dynamiclogin">
+  <form  [formGroup]="dynamicForm" >
+       <div class="field"  *ngFor="let field of formFields">
+        <label  class="block">{{field.label}}</label>
+
+       </div>
+  </form>
+</div>
